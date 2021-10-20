@@ -4,9 +4,9 @@
 software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
 ## 2) Implementation and demonstration
 ### 2.2 design pattern Strategy
-description des exemples (implementation)
-- example 1 : utiliser une famille des algo pour le tri
-
+description of examples (implementations)
+- Example 1 : use an algo family for sorting
+- Example 2 : choose dynamic strategy
 
 ## 3) Source
 for more details consult the following sources
