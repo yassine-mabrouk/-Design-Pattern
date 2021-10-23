@@ -19,6 +19,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
     - Le pattern Observer définit une relation entre les objets de type un à plusieurs, de façon que, lorsqu’un objet change d’état, tous ce qui en dépendent en soient informés et soient mis à jour automatiquement
 - examples:
     - Example 1 :Observable / Observers
+    - Example 2 :weather Channel
 ## 3) Source
 for more details consult the following sources
 - demo video  [Design pattern course and demo ](https://youtu.be/paXdEHMKmh8)
