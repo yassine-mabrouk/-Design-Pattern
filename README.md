@@ -5,7 +5,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
 ## 2) Implementation and demonstration
 ### Remarks
  - you will find a simple description for each example in the class demo for each design pattern
-### 2.2 design pattern Strategy
+### 2.1 design pattern Strategy
 - Catégorie :
     - Comportement
 - Definition:
@@ -22,15 +22,27 @@ software design pattern is a general, reusable solution to a commonly occurring 
 - examples:
     - Example 1 :Observable / Observers
     - Example 2 :weather Channel
-### 2.2 design pattern Decorator
+### 2.3 design pattern Decorator
 - Catégorie :
   - Structure 
 - Définition
-  - Le pattern Décorateur attache dynamiquement des responsabilités supplémentaires à un objet. Il fournit une alternative souple à la dérivation, pour étendre les fonctionnalités.
-  - Le Design Pattern permet d'isoler les responsabilités d'un objet
+   - Organiser les objets en structure arborescente afin de représenter une hiérarchie.
+   - Permettre à la partie cliente de manipuler un objet unique et un objet composé de la
 - examples:
   - Example 1 : simple implementation design pattern decorator
   - Example 2 : StarbuzzCoffee
+  
+### 2.4 design pattern Composite
+- Catégorie :
+  - Structure
+- Définition
+  - Organiser les objets en structure arborescente afin de représenter une hiérarchie.
+  - Permettre à la partie cliente de manipuler un objet unique et un objet composé de la même manière.
+  - Le Design Pattern permet d'isoler l'appartenance à un agrégat
+- examples:
+  - Example 1 : file system
+
+  
   
 ## 3) Source
 for more details consult the following sources
