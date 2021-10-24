@@ -30,6 +30,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler les responsabilités d'un objet
 - examples:
   - Example 1 : simple implementation design pattern decorator
+  - Example 2 : StarbuzzCoffee
   
 ## 3) Source
 for more details consult the following sources
