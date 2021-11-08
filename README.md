@@ -41,6 +41,16 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler l'appartenance à un agrégat
 - examples:
   - Example 1 : file system
+### 2.4 design pattern Adapter
+- Catégorie :
+  - Structure
+- Objectif
+  - Convertir l'interface d'une classe dans une autre interface comprise par la partie cliente.
+  - Permettre à des classes de fonctionner ensemble, ce qui n'aurait pas été possible à cause de leurs interfaces incompatibles.
+- Résultat :
+  - Le Design Pattern permet d'isoler l'adaptation d'un sous-systèm
+- examples:
+  - Example 1 :computer ==> Connect ==>Devices
 
   
   
