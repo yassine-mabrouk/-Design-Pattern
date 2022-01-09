@@ -51,7 +51,15 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler l'adaptation d'un sous-systèm
 - examples:
   - Example 1 :computer ==> Connect ==>Devices
-
+### 2.4 design pattern Proxy
+- Catégorie :
+  -  Structure
+- Objectif
+  - Fournir un intermédiaire entre la partie cliente et un objet pour contrôler les accès à ce dernier
+- Résultat :
+  -  Le Design Pattern permet d'isoler le comportement lors de l'accès à un objet.
+- examples:
+  - Example 1 :Proxy de cache et proxy de security
   
   
 ## 3) Source
