@@ -9,6 +9,5 @@ public class File extends Component {
     @Override
     public void operation() {
         System.out.println(tab()+"File"+name);
-
     }
 }
