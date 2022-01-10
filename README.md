@@ -60,6 +60,15 @@ software design pattern is a general, reusable solution to a commonly occurring 
   -  Le Design Pattern permet d'isoler le comportement lors de l'accès à un objet.
 - examples:
   - Example 1 :Proxy de cache et proxy de security
+### 2.4 design pattern Template Method
+- Catégorie :
+  - Comportement
+- Objectif du pattern
+  - Définir le squelette d'un algorithme en déléguant certaines étapes à des sous-classes.
+- Résultat :
+  - Le Design Pattern permet d'isoler les parties variables d'un algorithme.
+- Raisons d’utilisation :
+  - Une classe possède un fonctionnement global, mais les détails de son algorithme doivent être spécifiques à ses sous-classes.
   
   
 ## 3) Source
