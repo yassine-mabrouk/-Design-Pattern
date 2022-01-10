@@ -41,7 +41,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler l'appartenance à un agrégat
 - examples:
   - Example 1 : file system
-### 2.4 design pattern Adapter
+### 2.5 design pattern Adapter
 - Catégorie :
   - Structure
 - Objectif
@@ -51,7 +51,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler l'adaptation d'un sous-systèm
 - examples:
   - Example 1 :computer ==> Connect ==>Devices
-### 2.4 design pattern Proxy
+### 2.6 design pattern Proxy
 - Catégorie :
   -  Structure
 - Objectif
@@ -60,7 +60,7 @@ software design pattern is a general, reusable solution to a commonly occurring 
   -  Le Design Pattern permet d'isoler le comportement lors de l'accès à un objet.
 - examples:
   - Example 1 :Proxy de cache et proxy de security
-### 2.4 design pattern Template Method
+### 2.7 design pattern Template Method
 - Catégorie :
   - Comportement
 - Objectif du pattern
@@ -69,7 +69,14 @@ software design pattern is a general, reusable solution to a commonly occurring 
   - Le Design Pattern permet d'isoler les parties variables d'un algorithme.
 - Raisons d’utilisation :
   - Une classe possède un fonctionnement global, mais les détails de son algorithme doivent être spécifiques à ses sous-classes.
-  
+
+### 2.8 design pattern State
+- Catégorie :
+  - Comportement
+- Objectif
+  - Changer le comportement d'un objet selon son état interne.
+- Résultat :
+  - Le Design Pattern permet d'isoler les algorithmes propres à chaque état d'un objet.
   
 ## 3) Source
 for more details consult the following sources
